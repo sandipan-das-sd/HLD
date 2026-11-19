@@ -1,7 +1,9 @@
 # HLD
 
-High-level system design practice. One folder per problem. New designs go in a new folder at this root so they all push to the same repo.
+Interview notes for high-level design. Open a problem, talk through it out loud, and see if you can hold the design for 45 minutes.
 
-| Problem | Notes |
-| --- | --- |
-| URL shortener (TinyURL / bit.ly) | [url-shortner](./url-shortner/) |
+Each note starts from the question, then requirements, rough numbers, the API, the data, the picture, and the part an interviewer will poke.
+
+## Start here
+
+- [URL shortener](./url-shortner/) — TinyURL. Turn a long link into a short code, redirect fast, and count the clicks without slowing the redirect.
